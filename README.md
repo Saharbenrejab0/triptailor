@@ -1,10 +1,12 @@
 # TripTailor
 Minimal trip planner (Streamlit). Deterministic algorithm, no external APIs.
 
-## 🖼️ Preview
+<h2>🖼️ Preview</h2>
+<p align="center">
+  <img src="assets/TripTailor1_UI.png" alt="UI 1" width="48%">
+  <img src="assets/TripTailor2_UI.png" alt="UI 2" width="48%">
+</p>
 
-![TripTailor Screenshot](assets/TripTailor1_UI.png)
-![TripTailor Screenshot](assets/TripTailor2_UI.png)
 
 ## Run locally
 ```bash
