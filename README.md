@@ -1,12 +1,12 @@
 # TripTailor
+Minimal trip planner (Streamlit). Deterministic algorithm, no external APIs.
 
-Minimal trip planner: you enter destination/dates/interests and it generates a day-by-day itinerary.  
-Deterministic algorithm (no external API by default).
+## 🖼️ Preview
 
-## Run
+![TripTailor Screenshot](assets/TripTailor1_UI.png)
+![TripTailor Screenshot](assets/TripTailor2_UI.png)
+
+## Run locally
 ```bash
-python -m venv .venv
-# Windows PowerShell
-.\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 streamlit run web/main.py
